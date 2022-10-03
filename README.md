@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ruperth-nyagesoa/" target="_blank"> Ruperth Nyagesoa </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
-- 🌱 Learning Never Stops 🚀
+- 👨‍💻 I'm a self-taught developer (mostly), and I love programming & problem solving
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https:///" target="_blank">Portfolio</a>**
 
-- 😄 Pronouns: He/His
+- 👨‍🏭 I'm currently working on some portfolio website, other projects and  mostly learning about stuffs
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
