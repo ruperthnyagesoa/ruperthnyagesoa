@@ -1,6 +1,4 @@
-<h1> <img alt="GIF" src="Gifs/coder.gif" width=300px height=200px align="right">
-
-<p align="center" >Hello, 👋 Ruperth Nyagesoa here <img src="Gifs/Developer.gif" alt="profile emoji" width="50px"></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ruperth-nyagesoa/" target="_blank"> Ruperth Nyagesoa </a></h1>
 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
@@ -79,7 +77,9 @@
 
 ### 💘 Github Trophies:-
 
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=ruperthnyagesoa&theme=gruvbox)](https://github.com/ruperthnyagesoa/github-profile-trophy)
+</div>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruperthnyagesoa&theme=dark" alt="ruperthnyagesoa" /></p>
