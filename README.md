@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ruperth-nyagesoa/" target="_blank"> Ruperth Nyagesoa </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ruperth-nyagesoa/" target="_blank"> Ruperth Nyagesoa </a></h1><img src="Gifs/Developer.gif" alt="profile emoji" width="50px">
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
 - 👨‍💻 I'm a self-taught developer (mostly), and I love programming & problem solving
