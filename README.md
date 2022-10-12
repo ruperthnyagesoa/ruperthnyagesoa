@@ -72,6 +72,12 @@
   </tr>
 </table>
 
+</br>
+
+### 💘 Github Trophies:-
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ruperthnyagesoa&theme=gruvbox)](https://github.com/ruperthnyagesoa/github-profile-trophy)
+
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruperthnyagesoa&theme=dark" alt="ruperthnyagesoa" /></p>
   </div>
