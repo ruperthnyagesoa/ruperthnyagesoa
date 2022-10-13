@@ -2,6 +2,10 @@
 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
+   <div align="center">
+   
+  
 - 👨‍💻 I'm a self-taught developer (mostly), and I love programming & problem solving
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
