@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Ruperth Nyagesoa</h1>
 <h3 align="center">A passionate full-stack developer from Kenya</h3>
 
-<p align="left"> <a href="https://twitter.com/ruperthdev" target="blank"><img src="https://img.shields.io/twitter/follow/ruperthdev?logo=twitter&style=for-the-badge" alt="ruperthdev" /></a> </p>
-
 - 🌱 I’m currently working **on some portfolio website, other projects and mostly learning about stuffs**
 
 - 💬 Ask me about **Web Development**
