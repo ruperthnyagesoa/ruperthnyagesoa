@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **Web Development**
 
+-👨‍💻 Check out my personal portfolio : **<a href="https://ruperthnyagesoa.netlify.app/" target="_blank">Portfolio</a>
+
 - 📫 How to reach me **ruperthnyagesoa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
