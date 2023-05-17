@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ruperth-nyagesoa" target="_blank"> Ruperth Nyagesoa </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
-- I'm currently logging my progress in doing round 1 of the 100 Days of Code challenge.
+- I'm not currently logging my progress in doing round 1 of the 100 Days of Code challenge.
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://ruperthnyagesoa.netlify.app" target="_blank">Portfolio</a>**
 
