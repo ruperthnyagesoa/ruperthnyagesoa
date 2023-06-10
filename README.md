@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ruperth-nyagesoa" target="_blank"> Ruperth Nyagesoa </a></h1>
+<h1 align="center">Hello...Hi, I'm <a href="https://www.linkedin.com/in/ruperth-nyagesoa" target="_blank"> Ruperth Nyagesoa </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://ruperthnyagesoa.netlify.app" target="_blank">Portfolio</a>**
@@ -25,14 +25,14 @@
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </div>
 
 <h3 align="left">Languages :</h3>
 <div align="left">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-</div>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+
 
 <h3 align="left">Databases :</h3>
 <div align="left">
