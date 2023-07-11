@@ -1,5 +1,5 @@
 <h1 align="center">Hello...Hi, I'm <a href="https://www.linkedin.com/in/ruperth-nyagesoa" target="_blank"> Ruperth Nyagesoa </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=JavaScript+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Software+Engineer+%3A)" /> </h3>
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://ruperthnyagesoa.netlify.app" target="_blank">Portfolio</a>**
 
@@ -7,7 +7,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ruperth-nyagesoa"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ruperthnyagesoa@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/ruperthitu"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/ruperthjr"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
