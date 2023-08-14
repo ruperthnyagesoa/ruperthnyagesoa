@@ -1,5 +1,6 @@
 <h1 align="center">Hello...Hi, I'm <a href="https://www.linkedin.com/in/ruperth-nyagesoa" target="_blank"> Ruperth Nyagesoa </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Software+Engineer+%3A)" /> </h3>
+[![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://ruperthnyagesoa.netlify.app" target="_blank">Portfolio</a>**
 
