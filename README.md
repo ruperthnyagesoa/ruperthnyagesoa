@@ -43,4 +43,8 @@
 <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ruperthnyagesoa&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ruperthnyagesoa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruperthnyagesoa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
