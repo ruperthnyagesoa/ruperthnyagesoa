@@ -1,7 +1,7 @@
 <h1 align="center">Hello...Hi, I'm <a href="https://www.linkedin.com/in/ruperth-nyagesoa" target="_blank"> Ruperth Nyagesoa </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Software+Engineer+%3A)" /> </h3>
 
-  - 👨‍💻 Check out my personal workfolio : **<a href="https://pathsonthego.vercel.app" target="_blank">Workfolio</a>**
+- 👨‍💻 Check out my personal workfolio: *<a href="https://pathsonthego.vercel.app" target="_blank">Workfolio</a>*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,8 +34,8 @@
 <h3 align="left">Databases:</h3>
 <div align="left">
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 <h3 align="left">Hosting:</h3>
 <div align="left">
@@ -43,8 +43,7 @@
 <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>
-<h3 align="left">Github Stats:</h3>
+
 ![](https://github-readme-stats.vercel.app/api?username=ruperthnyagesoa&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ruperthnyagesoa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruperthnyagesoa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
