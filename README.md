@@ -12,10 +12,8 @@
 
 <h3 align="left">Languages:</h3>
 <div align="left">
-<img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="SQL" src="https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=ruperthnyagesoa&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
