@@ -2,7 +2,7 @@
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Software+Engineer+%3A)" /></h3>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/photoset-kuroko-no-basket-kurobas-nl3fy7uWhICkw" alt="Daiki Aomine" width="350" />
+  <img src="https://giphy.com/gifs/kuroko-no-basket-RSPAUsEy1azRu" alt="Daiki Aomine" width="350" />
 </p>
 
 - 👨‍💻 Check out my personal workfolio: *[Workfolio](https://pathsonthego.vercel.app)*
