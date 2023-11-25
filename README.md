@@ -6,9 +6,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn')](https://www.linkedin.com/in/ruperth-nyagesoa)
 
 </div>
-
-<div align="center">
-
-Made with :heart: and :joy:
-
-</div>
