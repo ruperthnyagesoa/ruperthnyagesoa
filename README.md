@@ -15,9 +15,3 @@
 - 💭 Hope to: `0 Warning(s),0 Error(s)`
 
 </details>
- 
----
-<div align="center">
-<img src="https://readme-stare.vercel.app/api?username=ruperthnyagesoa&include_all_commits=true&show_icons=true" alt="My Grade" width="40%">
-<img src="https://count.getloli.com/get/@ruperthnyagesoa?theme=rule34" alt="My Count" width="40%">    
-</div>
