@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn')](https://www.linkedin.com/in/ruperth-nyagesoa)
 
 </div>
----
+
 <details>
 <summary align="center"> <b> MORE </b> </summary>
 
