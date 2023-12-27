@@ -23,7 +23,3 @@ world.run_until_complete()
 - 💭 Hope to: `0 Warning(s),0 Error(s)`
 
 </details>
-
-<div align= "center">
-![ruperthnyagesoa's github stats](https://github-readme-stats.vercel.app/api?username=ruperthnyagesoa&show_icons=true&theme=merko)
-</div>
