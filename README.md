@@ -1,14 +1,14 @@
 <div align="center">
   
-```python
-world.run_until_complete()
+```javascript
+await world.runUntilComplete();
 ```
   
 </div>
 
 <div align="center">
 
-[![Ruperth Nyagesoa - Full-Stack Developer](https://github.com/ruperthnyagesoa/ruperthnyagesoa/blob/main/assets/github-header-image%20(1).png 'Ruperth Nyagesoa - Full-Stack Developer')](https://pathsonthego.vercel.app)
+[![Ruperth Nyagesoa - Software Engineer](https://github.com/ruperthnyagesoa/ruperthnyagesoa/blob/main/github-header-image%20(2).png) 'Ruperth Nyagesoa - Full-Stack Developer')](https://pathsonthego.vercel.app)
 
 ↑↑↑Don't you want to visit my blog? Just [CLICK ON THIS LINK🔗](https://pathsonthego.vercel.app/)!
 
