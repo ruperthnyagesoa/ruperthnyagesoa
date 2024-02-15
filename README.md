@@ -8,8 +8,6 @@ await world.runUntilComplete();
 
 <div align="center">
 
-[![Ruperth Nyagesoa - Software Engineer](/assets/github-header-image%20(3).png)](https://pathsonthego.vercel.app)
-
 ↑↑↑Don't you want to visit my blog? Just [CLICK ON THIS LINK🔗](https://pathsonthego.vercel.app/)!
 
 </div>
