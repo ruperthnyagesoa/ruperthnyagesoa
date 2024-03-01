@@ -1,15 +1,12 @@
 <div align="center">
-  
-```javascript
-await world.runUntilComplete();
-```
+
 # :computer: Sawubona!
 
 </div>
 
 <div align="center">
 
-↑↑↑Don't you want to visit my blog? Just [CLICK ON THIS LINK🔗](https://pathsonthego.vercel.app/)!
+↑↑↑Website under development? Just [CLICK ON THIS LINK🔗](https://pathsonthego.vercel.app/)!
 
 </div>
 
