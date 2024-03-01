@@ -3,7 +3,8 @@
 ```javascript
 await world.runUntilComplete();
 ```
-  
+# :computer: Sawubona!
+
 </div>
 
 <div align="center">
@@ -15,9 +16,9 @@ await world.runUntilComplete();
 <details>
 <summary align="center"> <b> MORE </b> </summary>
 
-- 🌱 I’m currently learning.
-- 📫 How to reach me: (ruperthnyagesoa@gmail.com)
-- 📡 I live in Kenya.
+- 💻 Passion for coding
+- 🌱 Always trying to learn new skills
+- 🍕 I love to eat!
 - 💭 Hope to: `0 Warning(s),0 Error(s)`
 
 </details>
