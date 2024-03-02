@@ -4,7 +4,7 @@
 
 <div align="center">
 
-↑↑↑Website under development? Just [LINK🔗](https://pathsonthego.vercel.app)!
+↑↑↑Website under development! [LINK🔗](https://pathsonthego.vercel.app)!
 
 </div>
 
@@ -12,6 +12,6 @@
 <summary align="center"> <b> MORE </b> </summary>
 
 - 💭 Hope to: `0 Warning(s),0 Error(s)`
-- `good for you, good for you`
+- 2024 quote: `good for you, good for you`
 
 </details>
