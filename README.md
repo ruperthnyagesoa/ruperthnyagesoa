@@ -1,9 +1,7 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=ruperthnyagesoa&color=269077">
-
 
 ### 🛠 &nbsp;Tech Stack
 
-![Ruby](https://img.shields.io/badge/-Ruby-141a20?style=flat&logo=Eclipse%20IDE&logoColor=FFF)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-141a20?style=flat&logo=ruby&logoColor=FFF)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python&logoColor=FFF)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=javascript&logoColor=FFF)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5&logoColor=FFF)&nbsp;
