@@ -31,4 +31,4 @@
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruperthnyagesoa&layout=compact&theme=gotham&border_color=2e3440&card_width=250&card_height=250)
 
 ### 📫 &nbsp;Connect with Me
-[![linkedin](https://img.shields.io/badge/-Ruperth%20Nyagesoa-0072b1?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ruperthnyagesoa/)
+[![linkedin](https://img.shields.io/badge/-Ruperth%20Nyagesoa-0072b1?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ruperth-nyagesoa/)
