@@ -8,7 +8,6 @@
 <details>
 <summary align="center"> <b> MORE </b> </summary>
 
-- 💭 Hope to: `0 Warning(s),0 Error(s)`
-- 🌱 Learning Never Stops 🚀
+- I remain a work in progress...
 
 </details>
